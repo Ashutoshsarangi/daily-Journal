@@ -1,0 +1,3 @@
+Today I covered Redux_Saga + ReduxTool Kit + Redux_persist
+
+small chunk of redux tool kit as createStore from Redux is depricated, so I used the redux tool kit's configuire store.
